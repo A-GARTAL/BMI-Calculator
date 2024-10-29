@@ -67,7 +67,7 @@ function bmiCalc(){
   else if(result>40)
   {
     resultTextDisplay.innerHTML='چاقی نوع 3'
-    resultTextDisplay.style.color = "red"
+    // resultTextDisplay.style.color = "red"
     resultNumberDisplay.style.color = "red"
   }
 }
